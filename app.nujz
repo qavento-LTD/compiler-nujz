@@ -1,0 +1,8 @@
+n = 2019
+u = 2021
+j = 2024
+z = 2026
+
+
+out n out u out j out z
+out "hello world!"
